@@ -63,15 +63,6 @@ The project incorporates state-of-the-art techniques from:
 - Bryant, JAR 2020 (Chain-reduced BDDs)
 - Soeken & Große, ASP-DAC 2016 (Error-bounded reduction)
 
-### Submission Checklist
-
-- [x] Jupyter notebook with complete implementation
-- [x] LaTeX paper (10 pages, IEEE format)
-- [x] Experimental results and visualization
-- [x] Ethical considerations discussion
-- [x] Statement of contributions
-- [x] Acknowledgment of AI tool usage
-
 ### Contact
 
 For questions about the implementation, please contact the team members via their University of Windsor email addresses.
