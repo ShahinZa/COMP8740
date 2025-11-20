@@ -1,4 +1,4 @@
-# BDD for Prime Number Detection - Final Project
+# BDD for Prime Number Detection
 
 ### Team Members
 - Shahin Zanbaghi
