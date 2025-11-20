@@ -5,12 +5,6 @@
 - Salim Al Jarmakani
 - Ryan Rostampour
 
-### Project Files
-
-1. **bdd_prime_detection_final_2.ipynb** - Jupyter notebook with complete implementation and experimental results
-2. **bdd_prime_detection_paper_final.tex** - LaTeX paper (IEEE format, two-column)
-3. **results_figure.png** - Comprehensive visualization of experimental results
-
 ### Key Results Achieved
 
 Our implementation successfully addresses Professor Rueda's feedback about over-compaction and achieves remarkable results:
